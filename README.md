@@ -1,6 +1,8 @@
 # flutter_action
 
-这个代码是学习[《Flutter实战》](https://book.flutterchina.club/)时，将各个章节的代码合并到一起
+这个代码是学习[《Flutter实战》](https://book.flutterchina.club/)时，将各个章节的代码合并到一起，
+Android的代码测试了，是ok的，
+但是IOS的代码没有测试，买不起MAC。。。。
 
 ## Getting Started
 
