@@ -151,19 +151,6 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             FlatButton(
-              child: Text("layout widgets"),
-              textColor: Colors.blue,
-              onPressed: () {
-                //导航到新路由
-                Navigator.push(context,
-                    // MaterialPageRoute 是Material组件库的一个Widget，它可以针对不同平台，
-                    // 实现与平台页面切换动画风格一致的路由切换动画
-                    new MaterialPageRoute(builder: (context) {
-                      return new LayoutMain();
-                    }));
-              },
-            ),
-            FlatButton(
               child: Text("Container widgets"),
               textColor: Colors.blue,
               onPressed: () {
